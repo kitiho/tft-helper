@@ -72,7 +72,7 @@
     ]
   },
   {
-    "name": "Cho'Gath",
+    "name": "chogath",
     "id": "TFT6-5_ChoGath",
     "cost": 3,
     "traits": [
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "name": "Jarvan IV",
+    "name": "jarvan_iv",
     "id": "TFT6-5_JarvanIV",
     "cost": 1,
     "traits": [
@@ -213,7 +213,7 @@
     ]
   },
   {
-    "name": "Kai'Sa",
+    "name": "kaisa",
     "id": "TFT6-5_KaiSa",
     "cost": 5,
     "traits": [
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "name": "Kha'Zix",
+    "name": "khazix",
     "id": "TFT6-5_KhaZix",
     "cost": 4,
     "traits": [
@@ -276,7 +276,7 @@
     ]
   },
   {
-    "name": "Miss Fortune",
+    "name": "miss_fortune",
     "id": "TFT6-5_MissFortune",
     "cost": 3,
     "traits": [
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "name": "Rek'Sai",
+    "name": "reksai",
     "id": "TFT6-5_Reksai",
     "cost": 2,
     "traits": [
@@ -340,8 +340,8 @@
     ]
   },
   {
-    "name": "Renata",
-    "id": "TFT6-5_Renata",
+    "name": "renata",
+    "id": "TFT6-5_renata",
     "cost": 4,
     "traits": [
       "Set6-5_Chemtech",
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "name": "Tahm Kench",
+    "name": "tahmkench",
     "id": "TFT6-5_TahmKench",
     "cost": 5,
     "traits": [

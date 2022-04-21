@@ -1,0 +1,435 @@
+[
+  {
+    "name": "Arcanists",
+    "earlyComp": [
+      "ezreal",
+      "ziggs",
+      "lulu",
+      "senna",
+      "vex"
+    ],
+    "finalComp": [
+      "ziggs",
+      "swain",
+      "malzahar",
+      "vex",
+      "ahri",
+      "jinx",
+      "silco",
+      "viktor"
+    ]
+  },
+  {
+    "name": "Chemtech Bruisers",
+    "earlyComp": [
+      "camille",
+      "quinn",
+      "warwick",
+      "tryndamere",
+      "zac"
+    ],
+    "finalComp": [
+      "warwick",
+      "tryndamere",
+      "zac",
+      "renata",
+      "vi",
+      "jayce",
+      "silco",
+      "viktor"
+    ]
+  },
+  {
+    "name": "Innovators",
+    "earlyComp": [
+      "camille",
+      "ezreal",
+      "warwick",
+      "zilean",
+      "ekko"
+    ],
+    "finalComp": [
+      "ezreal",
+      "zilean",
+      "ekko",
+      "senna",
+      "orianna",
+      "vi",
+      "seraphine",
+      "jayce"
+    ]
+  },
+  {
+    "name": "Clockwork Innovators",
+    "earlyComp": [
+      "camille",
+      "ezreal",
+      "warwick",
+      "zilean",
+      "ekko"
+    ],
+    "finalComp": [
+      "caitlyn",
+      "ezreal",
+      "zilean",
+      "ekko",
+      "jhin",
+      "vi",
+      "seraphine",
+      "jayce"
+    ]
+  },
+  {
+    "name": "Debonair Assassins",
+    "earlyComp": [
+      "blitzcrank",
+      "syndra",
+      "talon",
+      "ekko",
+      "leona"
+    ],
+    "finalComp": [
+      "nocturne",
+      "twitch",
+      "blitzcrank",
+      "syndra",
+      "talon",
+      "ekko",
+      "leona"
+    ]
+  },
+  {
+    "name": "Mutant Colossus",
+    "earlyComp": [
+      "kassadin",
+      "reksai",
+      "sejuani",
+      "swain",
+      "malzahar"
+    ],
+    "finalComp": [
+      "reksai",
+      "chogath",
+      "malzahar",
+      "alistar",
+      "khazix",
+      "kaisa"
+    ]
+  },
+  {
+    "name": "Scrap Striker",
+    "earlyComp": [
+      "ezreal",
+      "jarvan_iv",
+      "nocturne",
+      "ekko",
+      "gnar"
+    ],
+    "finalComp": [
+      "jarvan_iv",
+      "blitzcrank",
+      "ekko",
+      "gnar",
+      "braum",
+      "irelia",
+      "sivir",
+      "jinx"
+    ]
+  },
+  {
+    "name": "Chemtech Challengers",
+    "earlyComp": [
+      "camille",
+      "quinn",
+      "warwick",
+      "tryndamere",
+      "zac"
+    ],
+    "finalComp": [
+      "camille",
+      "quinn",
+      "warwick",
+      "tryndamere",
+      "zac",
+      "draven",
+      "orianna",
+      "kaisa"
+    ]
+  },
+  {
+    "name": "Chemtech Innovators",
+    "earlyComp": [
+      "ezreal",
+      "twitch",
+      "singed",
+      "zilean",
+      "warwick"
+    ],
+    "finalComp": [
+      "camille",
+      "ezreal",
+      "singed",
+      "twitch",
+      "warwick",
+      "zilean",
+      "ekko",
+      "seraphine"
+    ]
+  },
+  {
+    "name": "Clockwork Debonairs",
+    "earlyComp": [
+      "syndra",
+      "talon",
+      "zyra",
+      "ekko",
+      "leona"
+    ],
+    "finalComp": [
+      "camille",
+      "zilean",
+      "leona",
+      "braum",
+      "draven",
+      "jhin",
+      "orianna",
+      "zeri"
+    ]
+  },
+  {
+    "name": "Hextech Strikers",
+    "earlyComp": [
+      "reksai",
+      "sejuani",
+      "gnar",
+      "lucian",
+      "senna"
+    ],
+    "finalComp": [
+      "jarvan_iv",
+      "gnar",
+      "sejuani",
+      "alistar",
+      "irelia",
+      "sivir",
+      "vi"
+    ]
+  },
+  {
+    "name": "Mutant Assassins",
+    "earlyComp": [
+      "kassadin",
+      "reksai",
+      "sejuani",
+      "swain",
+      "malzahar"
+    ],
+    "finalComp": [
+      "reksai",
+      "chogath",
+      "ekko",
+      "malzahar",
+      "irelia",
+      "khazix",
+      "kaisa"
+    ]
+  },
+  {
+    "name": "Scholar Bruisers",
+    "earlyComp": [
+      "reksai",
+      "sejuani",
+      "gnar",
+      "lucian",
+      "senna"
+    ],
+    "finalComp": [
+      "sejuani",
+      "zac",
+      "ahri",
+      "renata",
+      "vi",
+      "silco",
+      "tahmkench",
+      "viktor"
+    ]
+  },
+  {
+    "name": "Sniper Bruisers",
+    "earlyComp": [
+      "caitlyn",
+      "illaoi",
+      "quinn",
+      "sejuani",
+      "miss_fortune"
+    ],
+    "finalComp": [
+      "caitlyn",
+      "sejuani",
+      "miss_fortune",
+      "zac",
+      "jhin",
+      "vi",
+      "tahmkench",
+      "zeri"
+    ]
+  },
+  {
+    "name": "Socialite Scrap",
+    "earlyComp": [
+      "camille",
+      "ezreal",
+      "warwick",
+      "zilean",
+      "ekko"
+    ],
+    "finalComp": [
+      "ezreal",
+      "blitzcrank",
+      "ekko",
+      "gnar",
+      "senna",
+      "braum",
+      "irelia",
+      "seraphine"
+    ]
+  },
+  {
+    "name": "Socialite Strikers",
+    "earlyComp": [
+      "reksai",
+      "sejuani",
+      "gnar",
+      "lucian",
+      "senna"
+    ],
+    "finalComp": [
+      "zilean",
+      "gnar",
+      "senna",
+      "irelia",
+      "orianna",
+      "seraphine",
+      "vi",
+      "jayce"
+    ]
+  },
+  {
+    "name": "Socialite Twinshots",
+    "earlyComp": [
+      "corki",
+      "reksai",
+      "sejuani",
+      "gnar",
+      "lucian"
+    ],
+    "finalComp": [
+      "corki",
+      "gangplank",
+      "gnar",
+      "lucian",
+      "morgana",
+      "senna",
+      "seraphine",
+      "jinx"
+    ]
+  },
+  {
+    "name": "Syndicate Arcanists",
+    "earlyComp": [
+      "darius",
+      "ashe",
+      "blitzcrank",
+      "miss_fortune",
+      "morgana"
+    ],
+    "finalComp": [
+      "darius",
+      "zyra",
+      "morgana",
+      "ahri",
+      "braum",
+      "orianna",
+      "silco",
+      "viktor"
+    ]
+  },
+  {
+    "name": "Syndicate Snipers",
+    "earlyComp": [
+      "darius",
+      "ashe",
+      "blitzcrank",
+      "miss_fortune",
+      "morgana"
+    ],
+    "finalComp": [
+      "darius",
+      "ashe",
+      "zyra",
+      "morgana",
+      "braum",
+      "jhin",
+      "orianna",
+      "silco"
+    ]
+  },
+  {
+    "name": "Yordles",
+    "earlyComp": [
+      "poppy",
+      "ziggs",
+      "blitzcrank",
+      "corki",
+      "swain"
+    ],
+    "finalComp": [
+      "poppy",
+      "ziggs",
+      "corki",
+      "lulu",
+      "gnar",
+      "vex",
+      "jinx",
+      "veigar"
+    ]
+  },
+  {
+    "name": "Debonair Arcanists",
+    "earlyComp": [
+      "brand",
+      "poppy",
+      "ziggs",
+      "leona",
+      "vex"
+    ],
+    "finalComp": [
+      "brand",
+      "poppy",
+      "ziggs",
+      "syndra",
+      "leona",
+      "malzahar",
+      "vex"
+    ]
+  },
+  {
+    "name": "Socialite Challengers",
+    "earlyComp": [
+      "kassadin",
+      "reksai",
+      "sejuani",
+      "swain",
+      "malzahar"
+    ],
+    "finalComp": [
+      "camille",
+      "senna",
+      "braum",
+      "orianna",
+      "seraphine",
+      "galio",
+      "kaisa"
+    ]
+  }
+]
