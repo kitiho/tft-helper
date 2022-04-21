@@ -73,7 +73,7 @@
   },
   {
     "name": "chogath",
-    "id": "TFT6-5_ChoGath",
+    "id": "TFT6-5_Chogath",
     "cost": 3,
     "traits": [
       "Set6-5_Mutant",
@@ -214,7 +214,7 @@
   },
   {
     "name": "kaisa",
-    "id": "TFT6-5_KaiSa",
+    "id": "TFT6-5_Kaisa",
     "cost": 5,
     "traits": [
       "Set6-5_Mutant",
@@ -232,7 +232,7 @@
   },
   {
     "name": "khazix",
-    "id": "TFT6-5_KhaZix",
+    "id": "TFT6-5_Khazix",
     "cost": 4,
     "traits": [
       "Set6-5_Mutant",
@@ -341,7 +341,7 @@
   },
   {
     "name": "renata",
-    "id": "TFT6-5_renata",
+    "id": "TFT6-5_Renata",
     "cost": 4,
     "traits": [
       "Set6-5_Chemtech",

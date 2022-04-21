@@ -75,7 +75,8 @@ function onClickChampion(champion: Champion) {
 }
 
 function getImageSrc(id: string) {
-  return new URL(`../assets/images/champions/${id}.png`, import.meta.url).href
+  return `https://raw.githubusercontent.com/kitiho/tft-helper/master/src/assets/images/champions/${id}.png`
+  // return new URL(`../assets/images/champions/${id}.png`, import.meta.url).href
 }
 
 function isSelected(id: string) {
